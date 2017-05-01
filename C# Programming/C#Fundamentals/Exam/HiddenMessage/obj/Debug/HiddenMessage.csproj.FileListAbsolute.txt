@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Exam\HiddenMessage\bin\Debug\HiddenMessage.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Exam\HiddenMessage\bin\Debug\HiddenMessage.exe
+c:\users\user\documents\visual studio 2015\Projects\Exam\HiddenMessage\bin\Debug\HiddenMessage.pdb
+c:\users\user\documents\visual studio 2015\Projects\Exam\HiddenMessage\obj\Debug\HiddenMessage.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Exam\HiddenMessage\obj\Debug\HiddenMessage.exe
+c:\users\user\documents\visual studio 2015\Projects\Exam\HiddenMessage\obj\Debug\HiddenMessage.pdb

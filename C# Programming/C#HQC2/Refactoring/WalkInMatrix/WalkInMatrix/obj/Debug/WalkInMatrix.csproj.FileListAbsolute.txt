@@ -1,0 +1,6 @@
+E:\Telerik\КПК2\Refactoring\WalkInMatrix\WalkInMatrix\bin\Debug\WalkInMatrix.exe.config
+E:\Telerik\КПК2\Refactoring\WalkInMatrix\WalkInMatrix\bin\Debug\WalkInMatrix.exe
+E:\Telerik\КПК2\Refactoring\WalkInMatrix\WalkInMatrix\bin\Debug\WalkInMatrix.pdb
+E:\Telerik\КПК2\Refactoring\WalkInMatrix\WalkInMatrix\obj\Debug\WalkInMatrix.exe
+E:\Telerik\КПК2\Refactoring\WalkInMatrix\WalkInMatrix\obj\Debug\WalkInMatrix.pdb
+E:\Telerik\КПК2\Refactoring\WalkInMatrix\WalkInMatrix\obj\Debug\WalkInMatrix.csprojResolveAssemblyReference.cache

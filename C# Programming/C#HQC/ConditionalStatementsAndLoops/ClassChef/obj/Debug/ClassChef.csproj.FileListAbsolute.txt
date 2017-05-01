@@ -1,0 +1,1 @@
+E:\Telerik\C#HQC\ConditionalStatementsAndLoops\ClassChef\bin\Debug\ClassChef.exe.config

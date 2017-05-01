@@ -1,0 +1,12 @@
+body{
+    color: #0094ff;
+    font-family: Consolas, Arial,sans-serif;
+    font-size : 18px;
+}
+div::first-line{
+    font-weight: bold;
+}
+div::first-letter{
+    font-family: Edwardian Script ITC, serif;
+    font-size: 42px;
+}

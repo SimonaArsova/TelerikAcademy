@@ -1,0 +1,1 @@
+E:\Telerik\КПК2\Refactoring\WalkInMatrix\Tests\bin\Debug\Tests.exe.config

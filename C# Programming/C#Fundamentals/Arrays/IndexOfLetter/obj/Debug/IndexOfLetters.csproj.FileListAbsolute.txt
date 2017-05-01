@@ -1,0 +1,6 @@
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Arrays\IndexOfLetter\bin\Debug\IndexOfLetter.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Arrays\IndexOfLetter\bin\Debug\IndexOfLetter.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Arrays\IndexOfLetter\bin\Debug\IndexOfLetter.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Arrays\IndexOfLetter\obj\Debug\IndexOfLetters.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Arrays\IndexOfLetter\obj\Debug\IndexOfLetter.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Arrays\IndexOfLetter\obj\Debug\IndexOfLetter.pdb

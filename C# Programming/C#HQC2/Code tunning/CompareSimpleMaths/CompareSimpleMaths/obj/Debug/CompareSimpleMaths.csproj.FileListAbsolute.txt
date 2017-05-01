@@ -1,0 +1,6 @@
+E:\Telerik\КПК2\CompareSimpleMaths\CompareSimpleMaths\bin\Debug\CompareSimpleMaths.exe.config
+E:\Telerik\КПК2\CompareSimpleMaths\CompareSimpleMaths\bin\Debug\CompareSimpleMaths.exe
+E:\Telerik\КПК2\CompareSimpleMaths\CompareSimpleMaths\bin\Debug\CompareSimpleMaths.pdb
+E:\Telerik\КПК2\CompareSimpleMaths\CompareSimpleMaths\obj\Debug\CompareSimpleMaths.csprojResolveAssemblyReference.cache
+E:\Telerik\КПК2\CompareSimpleMaths\CompareSimpleMaths\obj\Debug\CompareSimpleMaths.exe
+E:\Telerik\КПК2\CompareSimpleMaths\CompareSimpleMaths\obj\Debug\CompareSimpleMaths.pdb

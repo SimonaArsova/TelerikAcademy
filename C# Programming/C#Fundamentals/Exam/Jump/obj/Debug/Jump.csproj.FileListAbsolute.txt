@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Exam\Jump\bin\Debug\Jump.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Exam\Jump\bin\Debug\Jump.exe
+c:\users\user\documents\visual studio 2015\Projects\Exam\Jump\bin\Debug\Jump.pdb
+c:\users\user\documents\visual studio 2015\Projects\Exam\Jump\obj\Debug\Jump.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Exam\Jump\obj\Debug\Jump.exe
+c:\users\user\documents\visual studio 2015\Projects\Exam\Jump\obj\Debug\Jump.pdb

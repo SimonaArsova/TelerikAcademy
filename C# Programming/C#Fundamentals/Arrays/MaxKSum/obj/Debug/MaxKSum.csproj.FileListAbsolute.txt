@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\Arrays\MaxKSum\bin\Debug\MaxKSum.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Arrays\MaxKSum\bin\Debug\MaxKSum.exe
+c:\users\user\documents\visual studio 2015\Projects\Arrays\MaxKSum\bin\Debug\MaxKSum.pdb
+c:\users\user\documents\visual studio 2015\Projects\Arrays\MaxKSum\obj\Debug\MaxKSum.exe
+c:\users\user\documents\visual studio 2015\Projects\Arrays\MaxKSum\obj\Debug\MaxKSum.pdb

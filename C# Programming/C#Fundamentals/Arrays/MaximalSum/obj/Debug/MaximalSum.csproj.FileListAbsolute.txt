@@ -1,0 +1,6 @@
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Arrays\MaximalSum\bin\Debug\MaximalSum.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Arrays\MaximalSum\bin\Debug\MaximalSum.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Arrays\MaximalSum\bin\Debug\MaximalSum.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Arrays\MaximalSum\obj\Debug\MaximalSum.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Arrays\MaximalSum\obj\Debug\MaximalSum.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Arrays\MaximalSum\obj\Debug\MaximalSum.pdb

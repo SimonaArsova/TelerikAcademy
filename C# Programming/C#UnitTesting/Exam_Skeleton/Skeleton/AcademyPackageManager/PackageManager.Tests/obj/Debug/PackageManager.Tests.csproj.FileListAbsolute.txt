@@ -1,0 +1,14 @@
+E:\Telerik\Exam_Skeleton\Skeleton\AcademyPackageManager\PackageManager.Tests\bin\Debug\PackageManager.Tests.dll
+E:\Telerik\Exam_Skeleton\Skeleton\AcademyPackageManager\PackageManager.Tests\bin\Debug\PackageManager.Tests.pdb
+E:\Telerik\Exam_Skeleton\Skeleton\AcademyPackageManager\PackageManager.Tests\bin\Debug\Castle.Core.dll
+E:\Telerik\Exam_Skeleton\Skeleton\AcademyPackageManager\PackageManager.Tests\bin\Debug\Moq.dll
+E:\Telerik\Exam_Skeleton\Skeleton\AcademyPackageManager\PackageManager.Tests\bin\Debug\nunit.framework.dll
+E:\Telerik\Exam_Skeleton\Skeleton\AcademyPackageManager\PackageManager.Tests\bin\Debug\PackageManager.dll
+E:\Telerik\Exam_Skeleton\Skeleton\AcademyPackageManager\PackageManager.Tests\bin\Debug\PackageManager.pdb
+E:\Telerik\Exam_Skeleton\Skeleton\AcademyPackageManager\PackageManager.Tests\bin\Debug\Castle.Core.xml
+E:\Telerik\Exam_Skeleton\Skeleton\AcademyPackageManager\PackageManager.Tests\bin\Debug\Moq.xml
+E:\Telerik\Exam_Skeleton\Skeleton\AcademyPackageManager\PackageManager.Tests\bin\Debug\nunit.framework.xml
+E:\Telerik\Exam_Skeleton\Skeleton\AcademyPackageManager\PackageManager.Tests\obj\Debug\PackageManager.Tests.csprojResolveAssemblyReference.cache
+E:\Telerik\Exam_Skeleton\Skeleton\AcademyPackageManager\PackageManager.Tests\obj\Debug\PackageManager.Tests.dll
+E:\Telerik\Exam_Skeleton\Skeleton\AcademyPackageManager\PackageManager.Tests\obj\Debug\PackageManager.Tests.pdb
+E:\Telerik\Exam_Skeleton\Skeleton\AcademyPackageManager\PackageManager.Tests\bin\Debug\PackageManager.Tests.dll.config

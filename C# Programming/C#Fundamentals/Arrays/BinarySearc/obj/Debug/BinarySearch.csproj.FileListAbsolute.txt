@@ -1,0 +1,6 @@
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Arrays\BinarySearc\bin\Debug\BinarySearc.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Arrays\BinarySearc\bin\Debug\BinarySearc.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Arrays\BinarySearc\bin\Debug\BinarySearc.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Arrays\BinarySearc\obj\Debug\BinarySearch.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Arrays\BinarySearc\obj\Debug\BinarySearc.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Arrays\BinarySearc\obj\Debug\BinarySearc.pdb

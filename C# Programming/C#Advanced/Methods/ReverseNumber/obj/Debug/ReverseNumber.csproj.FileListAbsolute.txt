@@ -1,0 +1,5 @@
+C:\Users\USER\Documents\Visual Studio 2015\Projects\C#Advanced\Methods\ReverseNumber\bin\Debug\ReverseNumber.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\C#Advanced\Methods\ReverseNumber\bin\Debug\ReverseNumber.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\C#Advanced\Methods\ReverseNumber\bin\Debug\ReverseNumber.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\C#Advanced\Methods\ReverseNumber\obj\Debug\ReverseNumber.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\C#Advanced\Methods\ReverseNumber\obj\Debug\ReverseNumber.pdb

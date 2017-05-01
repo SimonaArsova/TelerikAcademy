@@ -1,0 +1,5 @@
+E:\Telerik\Exam_Skeleton\Skeleton\AcademyPackageManager\PackageManager\bin\Debug\PackageManager.dll
+E:\Telerik\Exam_Skeleton\Skeleton\AcademyPackageManager\PackageManager\bin\Debug\PackageManager.pdb
+E:\Telerik\Exam_Skeleton\Skeleton\AcademyPackageManager\PackageManager\obj\Debug\PackageManager.csprojResolveAssemblyReference.cache
+E:\Telerik\Exam_Skeleton\Skeleton\AcademyPackageManager\PackageManager\obj\Debug\PackageManager.dll
+E:\Telerik\Exam_Skeleton\Skeleton\AcademyPackageManager\PackageManager\obj\Debug\PackageManager.pdb

@@ -1,0 +1,1 @@
+E:\Telerik\C#HQC\Naming\NamingIdentifiers\Printer\bin\Debug\Printer.exe.config

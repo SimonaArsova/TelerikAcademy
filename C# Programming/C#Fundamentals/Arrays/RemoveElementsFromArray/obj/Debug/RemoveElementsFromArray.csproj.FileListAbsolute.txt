@@ -1,0 +1,6 @@
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Arrays\RemoveElementsFromArray\bin\Debug\RemoveElementsFromArray.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Arrays\RemoveElementsFromArray\bin\Debug\RemoveElementsFromArray.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Arrays\RemoveElementsFromArray\bin\Debug\RemoveElementsFromArray.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Arrays\RemoveElementsFromArray\obj\Debug\RemoveElementsFromArray.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Arrays\RemoveElementsFromArray\obj\Debug\RemoveElementsFromArray.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Arrays\RemoveElementsFromArray\obj\Debug\RemoveElementsFromArray.pdb

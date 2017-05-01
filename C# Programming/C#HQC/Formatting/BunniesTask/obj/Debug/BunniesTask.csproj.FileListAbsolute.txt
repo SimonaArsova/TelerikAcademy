@@ -1,0 +1,6 @@
+E:\Telerik\C#HQC\Formatting\BunniesTask\bin\Debug\BunniesTask.exe.config
+E:\Telerik\C#HQC\Formatting\BunniesTask\bin\Debug\BunniesTask.exe
+E:\Telerik\C#HQC\Formatting\BunniesTask\bin\Debug\BunniesTask.pdb
+E:\Telerik\C#HQC\Formatting\BunniesTask\obj\Debug\BunniesTask.csprojResolveAssemblyReference.cache
+E:\Telerik\C#HQC\Formatting\BunniesTask\obj\Debug\BunniesTask.exe
+E:\Telerik\C#HQC\Formatting\BunniesTask\obj\Debug\BunniesTask.pdb

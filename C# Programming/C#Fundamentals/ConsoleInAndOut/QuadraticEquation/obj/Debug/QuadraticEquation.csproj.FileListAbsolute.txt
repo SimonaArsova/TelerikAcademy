@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\ConsoleInAndOut\QuadraticEquation\bin\Debug\QuadraticEquation.exe.config
+c:\users\user\documents\visual studio 2015\Projects\ConsoleInAndOut\QuadraticEquation\bin\Debug\QuadraticEquation.exe
+c:\users\user\documents\visual studio 2015\Projects\ConsoleInAndOut\QuadraticEquation\bin\Debug\QuadraticEquation.pdb
+c:\users\user\documents\visual studio 2015\Projects\ConsoleInAndOut\QuadraticEquation\obj\Debug\QuadraticEquation.exe
+c:\users\user\documents\visual studio 2015\Projects\ConsoleInAndOut\QuadraticEquation\obj\Debug\QuadraticEquation.pdb

@@ -1,0 +1,6 @@
+E:\Telerik\КПК2\Code tunning\CompareAdvancedMaths\CompareAdvancedMaths\bin\Debug\CompareAdvancedMaths.exe.config
+E:\Telerik\КПК2\Code tunning\CompareAdvancedMaths\CompareAdvancedMaths\bin\Debug\CompareAdvancedMaths.exe
+E:\Telerik\КПК2\Code tunning\CompareAdvancedMaths\CompareAdvancedMaths\bin\Debug\CompareAdvancedMaths.pdb
+E:\Telerik\КПК2\Code tunning\CompareAdvancedMaths\CompareAdvancedMaths\obj\Debug\CompareAdvancedMaths.csprojResolveAssemblyReference.cache
+E:\Telerik\КПК2\Code tunning\CompareAdvancedMaths\CompareAdvancedMaths\obj\Debug\CompareAdvancedMaths.exe
+E:\Telerik\КПК2\Code tunning\CompareAdvancedMaths\CompareAdvancedMaths\obj\Debug\CompareAdvancedMaths.pdb

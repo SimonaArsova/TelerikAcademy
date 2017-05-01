@@ -1,0 +1,6 @@
+C:\Users\USER\Documents\Visual Studio 2015\Projects\OperatorsAndExpressions\ModifyBit\bin\Debug\ModifyBit.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\OperatorsAndExpressions\ModifyBit\bin\Debug\ModifyBit.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\OperatorsAndExpressions\ModifyBit\bin\Debug\ModifyBit.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\OperatorsAndExpressions\ModifyBit\obj\Debug\ModifyBit.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\OperatorsAndExpressions\ModifyBit\obj\Debug\ModifyBit.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\OperatorsAndExpressions\ModifyBit\obj\Debug\ModifyBit.csprojResolveAssemblyReference.cache

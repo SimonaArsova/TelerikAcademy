@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Exam\MythicalNumbers\bin\Debug\MythicalNumbers.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Exam\MythicalNumbers\bin\Debug\MythicalNumbers.exe
+c:\users\user\documents\visual studio 2015\Projects\Exam\MythicalNumbers\bin\Debug\MythicalNumbers.pdb
+c:\users\user\documents\visual studio 2015\Projects\Exam\MythicalNumbers\obj\Debug\MythicalNumbers.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Exam\MythicalNumbers\obj\Debug\MythicalNumbers.exe
+c:\users\user\documents\visual studio 2015\Projects\Exam\MythicalNumbers\obj\Debug\MythicalNumbers.pdb

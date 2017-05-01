@@ -1,0 +1,26 @@
+#wrapper {
+    width: 200px;
+    font-size: 16px;
+}
+
+ul {
+    list-style: none;
+}
+
+.hide {
+    display: none;
+}
+
+.underline:hover{
+    text-decoration: underline; 
+}
+
+ul .list:hover .hide {
+    display: block;
+}
+
+li ul li  {
+    margin-left: -25px;
+    color: #a5a4a4;
+    text-decoration: none;
+}

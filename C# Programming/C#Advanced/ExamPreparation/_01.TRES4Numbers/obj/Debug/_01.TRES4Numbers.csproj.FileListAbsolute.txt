@@ -1,0 +1,6 @@
+C:\Users\USER\Documents\Visual Studio 2015\Projects\C#Advanced\ExamPreparation\_01.TRES4Numbers\bin\Debug\_01.TRES4Numbers.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\C#Advanced\ExamPreparation\_01.TRES4Numbers\bin\Debug\_01.TRES4Numbers.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\C#Advanced\ExamPreparation\_01.TRES4Numbers\bin\Debug\_01.TRES4Numbers.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\C#Advanced\ExamPreparation\_01.TRES4Numbers\obj\Debug\_01.TRES4Numbers.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\C#Advanced\ExamPreparation\_01.TRES4Numbers\obj\Debug\_01.TRES4Numbers.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\C#Advanced\ExamPreparation\_01.TRES4Numbers\obj\Debug\_01.TRES4Numbers.pdb

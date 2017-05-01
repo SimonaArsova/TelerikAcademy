@@ -1,0 +1,42 @@
+body{
+    font-size:20px;
+    font-family:candara, sans-serif;
+    font-weight: bold;
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 65%;
+    height: 660px;
+}
+
+form{
+    margin-top:130px;
+    font-size:26px;
+    text-align:center;
+}
+
+article>fieldset{
+    float:left;
+    width: 250px;
+    margin-left: 10px;
+}
+
+fieldset>img{
+    float:left;
+}
+
+span{
+    margin-left: 30px;
+}
+
+nav{
+    font-size: 30px;
+    text-align: center
+}
+
+a{
+    color:deepskyblue;
+}
+
+hr{
+    width: 95%;
+}

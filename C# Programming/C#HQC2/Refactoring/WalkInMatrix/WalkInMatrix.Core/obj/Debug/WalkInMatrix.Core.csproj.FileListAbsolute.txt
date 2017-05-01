@@ -1,0 +1,1 @@
+E:\Telerik\КПК2\Refactoring\WalkInMatrix\WalkInMatrix.Core\bin\Debug\WalkInMatrix.Core.exe.config

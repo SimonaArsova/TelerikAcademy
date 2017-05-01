@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Exam\MixingNumbers\bin\Debug\MixingNumbers.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Exam\MixingNumbers\bin\Debug\MixingNumbers.exe
+c:\users\user\documents\visual studio 2015\Projects\Exam\MixingNumbers\bin\Debug\MixingNumbers.pdb
+c:\users\user\documents\visual studio 2015\Projects\Exam\MixingNumbers\obj\Debug\MixingNumbers.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Exam\MixingNumbers\obj\Debug\MixingNumbers.exe
+c:\users\user\documents\visual studio 2015\Projects\Exam\MixingNumbers\obj\Debug\MixingNumbers.pdb

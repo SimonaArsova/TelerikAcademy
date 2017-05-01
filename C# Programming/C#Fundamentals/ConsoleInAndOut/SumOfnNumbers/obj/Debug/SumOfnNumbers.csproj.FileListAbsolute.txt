@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\ConsoleInAndOut\SumOfnNumbers\bin\Debug\SumOfnNumbers.exe.config
+c:\users\user\documents\visual studio 2015\Projects\ConsoleInAndOut\SumOfnNumbers\bin\Debug\SumOfnNumbers.exe
+c:\users\user\documents\visual studio 2015\Projects\ConsoleInAndOut\SumOfnNumbers\bin\Debug\SumOfnNumbers.pdb
+c:\users\user\documents\visual studio 2015\Projects\ConsoleInAndOut\SumOfnNumbers\obj\Debug\SumOfnNumbers.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\ConsoleInAndOut\SumOfnNumbers\obj\Debug\SumOfnNumbers.exe
+c:\users\user\documents\visual studio 2015\Projects\ConsoleInAndOut\SumOfnNumbers\obj\Debug\SumOfnNumbers.pdb

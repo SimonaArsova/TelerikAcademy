@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\OperatorsAndExpressions\DevideBy7And5\bin\Debug\DevideBy7And5.exe.config
+c:\users\user\documents\visual studio 2015\Projects\OperatorsAndExpressions\DevideBy7And5\bin\Debug\DevideBy7And5.exe
+c:\users\user\documents\visual studio 2015\Projects\OperatorsAndExpressions\DevideBy7And5\bin\Debug\DevideBy7And5.pdb
+c:\users\user\documents\visual studio 2015\Projects\OperatorsAndExpressions\DevideBy7And5\obj\Debug\DevideBy7And5.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\OperatorsAndExpressions\DevideBy7And5\obj\Debug\DevideBy7And5.exe
+c:\users\user\documents\visual studio 2015\Projects\OperatorsAndExpressions\DevideBy7And5\obj\Debug\DevideBy7And5.pdb

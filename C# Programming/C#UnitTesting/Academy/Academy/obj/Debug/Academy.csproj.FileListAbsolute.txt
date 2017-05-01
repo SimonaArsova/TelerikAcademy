@@ -1,0 +1,18 @@
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Solution\Academy\bin\Debug\Academy.exe.config
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Solution\Academy\bin\Debug\Academy.exe
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Solution\Academy\bin\Debug\Academy.pdb
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Solution\Academy\obj\Debug\Academy.csprojResolveAssemblyReference.cache
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Solution\Academy\obj\Debug\Academy.exe
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Solution\Academy\obj\Debug\Academy.pdb
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Workshop\Academy\bin\Debug\Academy.exe.config
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Workshop\Academy\bin\Debug\Academy.exe
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Workshop\Academy\bin\Debug\Academy.pdb
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Workshop\Academy\obj\Debug\Academy.csprojResolveAssemblyReference.cache
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Workshop\Academy\obj\Debug\Academy.exe
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Workshop\Academy\obj\Debug\Academy.pdb
+E:\Telerik\C#UnitTesting\Academy\Academy\bin\Debug\Academy.exe.config
+E:\Telerik\C#UnitTesting\Academy\Academy\obj\Debug\Academy.exe
+E:\Telerik\C#UnitTesting\Academy\Academy\obj\Debug\Academy.pdb
+E:\Telerik\C#UnitTesting\Academy\Academy\bin\Debug\Academy.exe
+E:\Telerik\C#UnitTesting\Academy\Academy\bin\Debug\Academy.pdb
+E:\Telerik\C#UnitTesting\Academy\Academy\obj\Debug\Academy.csprojResolveAssemblyReference.cache

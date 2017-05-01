@@ -1,0 +1,9 @@
+E:\Telerik\КПК2\Refactoring\WalkInMatrix\WalkInMatrix.Tests2\bin\Debug\WalkInMatrix.Tests2.dll
+E:\Telerik\КПК2\Refactoring\WalkInMatrix\WalkInMatrix.Tests2\bin\Debug\WalkInMatrix.Tests2.pdb
+E:\Telerik\КПК2\Refactoring\WalkInMatrix\WalkInMatrix.Tests2\bin\Debug\nunit.framework.dll
+E:\Telerik\КПК2\Refactoring\WalkInMatrix\WalkInMatrix.Tests2\bin\Debug\WalkInMatrix.exe
+E:\Telerik\КПК2\Refactoring\WalkInMatrix\WalkInMatrix.Tests2\bin\Debug\WalkInMatrix.pdb
+E:\Telerik\КПК2\Refactoring\WalkInMatrix\WalkInMatrix.Tests2\bin\Debug\nunit.framework.xml
+E:\Telerik\КПК2\Refactoring\WalkInMatrix\WalkInMatrix.Tests2\obj\Debug\WalkInMatrix.Tests.csprojResolveAssemblyReference.cache
+E:\Telerik\КПК2\Refactoring\WalkInMatrix\WalkInMatrix.Tests2\obj\Debug\WalkInMatrix.Tests2.dll
+E:\Telerik\КПК2\Refactoring\WalkInMatrix\WalkInMatrix.Tests2\obj\Debug\WalkInMatrix.Tests2.pdb

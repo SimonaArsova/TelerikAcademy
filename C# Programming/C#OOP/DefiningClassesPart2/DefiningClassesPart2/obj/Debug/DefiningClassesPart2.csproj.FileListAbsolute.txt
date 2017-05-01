@@ -1,0 +1,6 @@
+C:\Users\USER\Documents\Visual Studio 2015\Projects\C#OOP\DefiningClassesPart2\DefiningClassesPart2\bin\Debug\DefiningClassesPart2.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\C#OOP\DefiningClassesPart2\DefiningClassesPart2\bin\Debug\DefiningClassesPart2.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\C#OOP\DefiningClassesPart2\DefiningClassesPart2\bin\Debug\DefiningClassesPart2.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\C#OOP\DefiningClassesPart2\DefiningClassesPart2\obj\Debug\DefiningClassesPart2.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\C#OOP\DefiningClassesPart2\DefiningClassesPart2\obj\Debug\DefiningClassesPart2.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\C#OOP\DefiningClassesPart2\DefiningClassesPart2\obj\Debug\DefiningClassesPart2.pdb

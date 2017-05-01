@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>HTML Form</title>
+</head>
+<body>
+    <form method = "POST">
+        <table border = "1" cellspacing = "0" cellpadding = "2">
+            <tr>
+                <td> <label for="lastName"><strong>Last Name</strong></label></td>
+                <td colspan="3"> <input type="text" name = "LastName" id = "lastName" size = "40px"/></td>
+            </tr>
+            <tr> 
+                <td><label for="firstName"><strong>First Name</strong></label></td>
+                <td colspan="3"> <input type="text" name = "FirsttName" id = "firstName" size = "40px"/></td>
+            </tr>
+            <tr>
+                <td><label for="address"><strong>Address</strong></label></td>
+                <td colspan="3"> <textarea rows="3" cols="40" name = "Address" id = "address"></textarea> </td>
+            </tr>
+            <tr>
+                <td><label for="city"><strong>City</strong></label></td>
+                <td> <input type="text" name = "City" id = "city"  size="25px" /></td>
+                <td><label for="state"><strong>State</strong></label></td>
+                <td> <input type="text" name = "State" id = "state" size="3px" /></td>
+            </tr>
+            <tr>
+                <td><label for="postalCode"><strong>Zip/Postal Code</strong></label></td>
+                <td colspan="3"> <input type="text" name = "Postal Code" id = "postalCode" size = "10px"/></td>
+            </tr>
+            <tr>
+                 <td><label for="country"><strong>Country</strong></label></td>
+                 <td colspan = "3">
+                     <select name="Country" id="country" style="width:70%;">
+                        <option value="Bulgaria">Bulgaria</option>
+                        <option value="UK">UK</option>
+                        <option value="France">France</option>
+                        <option value="Italy">Italy</option>
+                        <option value="Spain">Spain</option>
+                        <option value="Germany">Germany</option>
+                     </select>
+                 </td>
+            </tr>
+            <tr>
+                <td><label for="phone"><strong>Phone (country code,<br> area code, number)</strong></label></td>
+                <td colspan="3"> (+<input type="text" name = "CountryCode" id = "phone" size = "3px"/>) 
+                    <input type="text" name = "AreaCode" id = "phone" size = "3px"/> - 
+                    <input type="text" name = "Number" id = "phone" size = "15px"/>
+                </td>
+            </tr>
+            <tr>
+                <td><label for="email"><strong>E-mail</strong></label></td>
+                <td colspan="3"> <input type="text" name = "Email" id = "email" size = "40px"/></td>
+            </tr>
+            <tr>
+                <td><label for="birthDate"><strong>Birth Date</strong></label></td>
+                <td colspan="3"> Month <input type="text" name = "Month" id = "birthDate" size = "1px"/> Day 
+                <input type="text" name = "Day" id = "birthDate" size = "1px"/> Year(4 digit) 
+                <input type="text" name = "Year" id = "birthDate" size = "3px" pattern="[1-9][0-9]{3}"/>
+                </td>
+            </tr>
+            <tr>
+                 <td><label for="gender"><strong>Gender</strong></label></td>
+                 <td colspan = "3">
+                     <select name="Gender" id="gender" style="width:30%;">
+                        <option value="Male">Male</option>
+                        <option value="Female">Female</option>
+                     </select>
+                 </td>
+            </tr>
+            <tr>
+                 <td><label for="startingDate"><strong>Starting date</strong></label></td>
+                 <td colspan = "3"> <input type="radio" name = "StartingDate" id = "startingDate" size = "5px"/> Spring 2006
+                 <input type="radio" name = "StartingDate" id = "startingDate" size = "5px"/> Summer 2006
+                 </td>
+            </tr>
+             <tr>
+                 <td><label for="comments"><strong>Comments/Questions</strong></label></td>
+                 <td colspan="3"> <textarea rows="5" cols="40" name = "Comments" id = "comments"></textarea> </td>
+            </tr>
+            <tr bgcolor = "powderblue"> 
+                <td colspan = "4" style ="text-align:center";><input type="submit" value = "Submit"/><input type="reset"
+                 value = "Clear This Form">
+                </td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

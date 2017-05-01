@@ -1,0 +1,5 @@
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Loops\HexToDecimal\bin\Debug\HexToDecimal.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Loops\HexToDecimal\bin\Debug\HexToDecimal.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Loops\HexToDecimal\bin\Debug\HexToDecimal.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Loops\HexToDecimal\obj\Debug\HexToDecimal.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Loops\HexToDecimal\obj\Debug\HexToDecimal.pdb

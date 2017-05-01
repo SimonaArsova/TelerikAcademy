@@ -1,0 +1,5 @@
+C:\Users\USER\Documents\Visual Studio 2015\Projects\C#Advanced\Methods\FirstLargerThanNeighbours\bin\Debug\FirstLargerThanNeighbours.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\C#Advanced\Methods\FirstLargerThanNeighbours\bin\Debug\FirstLargerThanNeighbours.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\C#Advanced\Methods\FirstLargerThanNeighbours\bin\Debug\FirstLargerThanNeighbours.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\C#Advanced\Methods\FirstLargerThanNeighbours\obj\Debug\FirstLargerThanNeighbours.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\C#Advanced\Methods\FirstLargerThanNeighbours\obj\Debug\FirstLargerThanNeighbours.pdb

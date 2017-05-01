@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\TelerikFirstHomework\LongSequence\bin\Debug\LongSequence.exe.config
+c:\users\user\documents\visual studio 2015\Projects\TelerikFirstHomework\LongSequence\bin\Debug\LongSequence.exe
+c:\users\user\documents\visual studio 2015\Projects\TelerikFirstHomework\LongSequence\bin\Debug\LongSequence.pdb
+c:\users\user\documents\visual studio 2015\Projects\TelerikFirstHomework\LongSequence\obj\Debug\LongSequence.exe
+c:\users\user\documents\visual studio 2015\Projects\TelerikFirstHomework\LongSequence\obj\Debug\LongSequence.pdb

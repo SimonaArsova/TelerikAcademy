@@ -1,0 +1,62 @@
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Solution\Academy.Tests\bin\Debug\Academy.Tests.dll
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Solution\Academy.Tests\bin\Debug\Academy.Tests.pdb
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Solution\Academy.Tests\bin\Debug\Academy.exe
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Solution\Academy.Tests\bin\Debug\Castle.Core.dll
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Solution\Academy.Tests\bin\Debug\Moq.dll
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Solution\Academy.Tests\bin\Debug\nunit.framework.dll
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Solution\Academy.Tests\bin\Debug\Academy.pdb
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Solution\Academy.Tests\bin\Debug\Academy.exe.config
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Solution\Academy.Tests\bin\Debug\Castle.Core.xml
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Solution\Academy.Tests\bin\Debug\Moq.xml
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Solution\Academy.Tests\bin\Debug\nunit.framework.xml
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Solution\Academy.Tests\obj\Debug\Academy.Tests.csprojResolveAssemblyReference.cache
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Solution\Academy.Tests\obj\Debug\Academy.Tests.dll
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Solution\Academy.Tests\obj\Debug\Academy.Tests.pdb
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Solution\Academy.Tests\bin\Debug\Academy.Tests.dll.config
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Solution\Academy.Tests\bin\Debug\Ploeh.AutoFixture.dll
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Solution\Academy.Tests\bin\Debug\Ploeh.AutoFixture.NUnit3.dll
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Solution\Academy.Tests\bin\Debug\Ploeh.AutoFixture.xml
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Solution\Academy.Tests\bin\Debug\Ploeh.AutoFixture.NUnit3.xml
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Solution\Academy.Tests\bin\Debug\Ploeh.AutoFixture.AutoMoq.dll
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Solution\Academy.Tests\bin\Debug\Ploeh.AutoFixture.AutoMoq.xml
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Workshop\Academy.Tests\bin\Debug\Academy.Tests.dll.config
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Workshop\Academy.Tests\bin\Debug\Academy.Tests.dll
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Workshop\Academy.Tests\bin\Debug\Academy.Tests.pdb
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Workshop\Academy.Tests\bin\Debug\Academy.exe
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Workshop\Academy.Tests\bin\Debug\Castle.Core.dll
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Workshop\Academy.Tests\bin\Debug\Moq.dll
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Workshop\Academy.Tests\bin\Debug\nunit.framework.dll
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Workshop\Academy.Tests\bin\Debug\Ploeh.AutoFixture.AutoMoq.dll
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Workshop\Academy.Tests\bin\Debug\Ploeh.AutoFixture.dll
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Workshop\Academy.Tests\bin\Debug\Ploeh.AutoFixture.NUnit3.dll
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Workshop\Academy.Tests\bin\Debug\Academy.pdb
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Workshop\Academy.Tests\bin\Debug\Academy.exe.config
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Workshop\Academy.Tests\bin\Debug\Castle.Core.xml
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Workshop\Academy.Tests\bin\Debug\Moq.xml
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Workshop\Academy.Tests\bin\Debug\nunit.framework.xml
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Workshop\Academy.Tests\bin\Debug\Ploeh.AutoFixture.xml
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Workshop\Academy.Tests\bin\Debug\Ploeh.AutoFixture.AutoMoq.xml
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Workshop\Academy.Tests\bin\Debug\Ploeh.AutoFixture.NUnit3.xml
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Workshop\Academy.Tests\obj\Debug\Academy.Tests.csprojResolveAssemblyReference.cache
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Workshop\Academy.Tests\obj\Debug\Academy.Tests.dll
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Workshop\Academy.Tests\obj\Debug\Academy.Tests.pdb
+E:\Telerik\C#UnitTesting\Academy\Academy.Tests\bin\Debug\Academy.Tests.dll.config
+E:\Telerik\C#UnitTesting\Academy\Academy.Tests\bin\Debug\Academy.Tests.dll
+E:\Telerik\C#UnitTesting\Academy\Academy.Tests\bin\Debug\Academy.Tests.pdb
+E:\Telerik\C#UnitTesting\Academy\Academy.Tests\bin\Debug\Academy.exe
+E:\Telerik\C#UnitTesting\Academy\Academy.Tests\bin\Debug\Castle.Core.dll
+E:\Telerik\C#UnitTesting\Academy\Academy.Tests\bin\Debug\Moq.dll
+E:\Telerik\C#UnitTesting\Academy\Academy.Tests\bin\Debug\nunit.framework.dll
+E:\Telerik\C#UnitTesting\Academy\Academy.Tests\bin\Debug\Ploeh.AutoFixture.AutoMoq.dll
+E:\Telerik\C#UnitTesting\Academy\Academy.Tests\bin\Debug\Ploeh.AutoFixture.dll
+E:\Telerik\C#UnitTesting\Academy\Academy.Tests\bin\Debug\Ploeh.AutoFixture.NUnit3.dll
+E:\Telerik\C#UnitTesting\Academy\Academy.Tests\bin\Debug\Academy.pdb
+E:\Telerik\C#UnitTesting\Academy\Academy.Tests\bin\Debug\Castle.Core.xml
+E:\Telerik\C#UnitTesting\Academy\Academy.Tests\bin\Debug\Moq.xml
+E:\Telerik\C#UnitTesting\Academy\Academy.Tests\bin\Debug\nunit.framework.xml
+E:\Telerik\C#UnitTesting\Academy\Academy.Tests\bin\Debug\Ploeh.AutoFixture.xml
+E:\Telerik\C#UnitTesting\Academy\Academy.Tests\bin\Debug\Ploeh.AutoFixture.AutoMoq.xml
+E:\Telerik\C#UnitTesting\Academy\Academy.Tests\bin\Debug\Ploeh.AutoFixture.NUnit3.xml
+E:\Telerik\C#UnitTesting\Academy\Academy.Tests\obj\Debug\Academy.Tests.csprojResolveAssemblyReference.cache
+E:\Telerik\C#UnitTesting\Academy\Academy.Tests\obj\Debug\Academy.Tests.dll
+E:\Telerik\C#UnitTesting\Academy\Academy.Tests\obj\Debug\Academy.Tests.pdb

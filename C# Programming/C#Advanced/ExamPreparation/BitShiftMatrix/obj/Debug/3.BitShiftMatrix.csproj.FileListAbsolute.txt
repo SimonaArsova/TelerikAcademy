@@ -1,0 +1,6 @@
+C:\Users\USER\Documents\Visual Studio 2015\Projects\C#Advanced\ExamPreparation\BitShiftMatrix\bin\Debug\BitShiftMatrix.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\C#Advanced\ExamPreparation\BitShiftMatrix\bin\Debug\BitShiftMatrix.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\C#Advanced\ExamPreparation\BitShiftMatrix\bin\Debug\BitShiftMatrix.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\C#Advanced\ExamPreparation\BitShiftMatrix\obj\Debug\3.BitShiftMatrix.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\C#Advanced\ExamPreparation\BitShiftMatrix\obj\Debug\BitShiftMatrix.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\C#Advanced\ExamPreparation\BitShiftMatrix\obj\Debug\BitShiftMatrix.pdb

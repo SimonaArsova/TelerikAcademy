@@ -1,0 +1,26 @@
+table{
+    border-bottom: 1px solid darkgrey;
+    border-collapse: collapse;
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+}
+
+thead tr td{
+    border-bottom: 1px solid darkgrey;
+    background-color: #6c0;
+    color: white;
+}
+
+table td+td{
+    padding: 5px;
+    border-left : 1px solid darkgrey;
+    width: 100px;
+}
+
+img{
+    width: 20px;
+    height: 12px;
+}
+
+tr:nth-child(2n){
+background-color: beige;
+}

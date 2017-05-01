@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\DataTypesAndVariables\ComparingFloats\bin\Debug\ComparingFloats.exe.config
+c:\users\user\documents\visual studio 2015\Projects\DataTypesAndVariables\ComparingFloats\bin\Debug\ComparingFloats.exe
+c:\users\user\documents\visual studio 2015\Projects\DataTypesAndVariables\ComparingFloats\bin\Debug\ComparingFloats.pdb
+c:\users\user\documents\visual studio 2015\Projects\DataTypesAndVariables\ComparingFloats\obj\Debug\ComparingFloats.exe
+c:\users\user\documents\visual studio 2015\Projects\DataTypesAndVariables\ComparingFloats\obj\Debug\ComparingFloats.pdb

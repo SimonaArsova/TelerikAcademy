@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\DataTypesAndVariables\DataTypesAndVariables\bin\Debug\DataTypesAndVariables.exe.config
+c:\users\user\documents\visual studio 2015\Projects\DataTypesAndVariables\DataTypesAndVariables\bin\Debug\DataTypesAndVariables.exe
+c:\users\user\documents\visual studio 2015\Projects\DataTypesAndVariables\DataTypesAndVariables\bin\Debug\DataTypesAndVariables.pdb
+c:\users\user\documents\visual studio 2015\Projects\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\DataTypesAndVariables.exe
+c:\users\user\documents\visual studio 2015\Projects\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\DataTypesAndVariables.pdb

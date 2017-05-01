@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\TelerikFirstHomework\TelerikFirstHomework\bin\Debug\TelerikFirstHomework.exe.config
+c:\users\user\documents\visual studio 2015\Projects\TelerikFirstHomework\TelerikFirstHomework\bin\Debug\TelerikFirstHomework.exe
+c:\users\user\documents\visual studio 2015\Projects\TelerikFirstHomework\TelerikFirstHomework\bin\Debug\TelerikFirstHomework.pdb
+c:\users\user\documents\visual studio 2015\Projects\TelerikFirstHomework\TelerikFirstHomework\obj\Debug\TelerikFirstHomework.exe
+c:\users\user\documents\visual studio 2015\Projects\TelerikFirstHomework\TelerikFirstHomework\obj\Debug\TelerikFirstHomework.pdb

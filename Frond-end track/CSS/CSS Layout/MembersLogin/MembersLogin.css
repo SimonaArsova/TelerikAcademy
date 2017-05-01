@@ -1,0 +1,56 @@
+section{
+    width: 665px;
+    height: 300px;
+    background-color: #3a3a3a;
+    border-radius: 5px;
+    font-size:14px;
+}
+
+h2{
+    color: #fc1;
+    font-size: 30px;
+    font-weight: normal;
+}
+
+header{
+    margin:10px; 
+    height: 50px;
+    background-image: url("./images/pc.png");
+    background-repeat: no-repeat;
+    box-shadow: inset 0 0 10px 0 #272727;
+    padding-bottom: 10px;
+}
+
+input{
+    margin:10px;
+    margin-top:20px;
+    width: 150px;
+}
+
+label{
+    margin-left:60px;
+    color: #fff;
+    font-size: 22px;
+}
+
+input[type="submit"]{
+    background: url("http://devevolution.com/wp-content/uploads/2013/01/btn.png")  no-repeat;
+    width: 56px;
+    height: 28px;
+    color: #fff;
+    border:none;
+}
+
+article{
+    margin:10px;
+}
+
+p{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #aaa;
+    width: 600px;
+}
+
+span{
+    color: #fff;
+}

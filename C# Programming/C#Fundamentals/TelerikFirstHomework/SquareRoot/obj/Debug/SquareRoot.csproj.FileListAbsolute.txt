@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\TelerikFirstHomework\SquareRoot\bin\Debug\SquareRoot.exe.config
+c:\users\user\documents\visual studio 2015\Projects\TelerikFirstHomework\SquareRoot\bin\Debug\SquareRoot.exe
+c:\users\user\documents\visual studio 2015\Projects\TelerikFirstHomework\SquareRoot\bin\Debug\SquareRoot.pdb
+c:\users\user\documents\visual studio 2015\Projects\TelerikFirstHomework\SquareRoot\obj\Debug\SquareRoot.exe
+c:\users\user\documents\visual studio 2015\Projects\TelerikFirstHomework\SquareRoot\obj\Debug\SquareRoot.pdb
+c:\users\user\documents\visual studio 2015\Projects\TelerikFirstHomework\SquareRoot\obj\Debug\SquareRoot.csprojResolveAssemblyReference.cache
